@@ -143,10 +143,10 @@ export function Navbar() {
                     src="https://overreacted.io/static/profile-pic-c715447ce38098828758e525a1128b87.jpg"
                     alt="Dan_Abromov"
                   /> */}
-                  <span className="flex flex-col">
+                  {/* <span className="flex flex-col">
                     <span className="text-sm font-medium text-gray-900">Dan Abromov</span>
                     <span className="text-sm font-medium text-gray-500">@dan_abromov</span>
-                  </span>
+                  </span> */}
                 </div>
               </div>
             </div>
